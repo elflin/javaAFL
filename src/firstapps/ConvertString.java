@@ -8,7 +8,7 @@ public class ConvertString {
        
         // input: 123467
         // output: 23
-        
+        System.out.println("test");
         Scanner scan = new Scanner(System.in);
         int angka = scan.nextInt();
         
